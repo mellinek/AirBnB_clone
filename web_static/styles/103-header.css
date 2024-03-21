@@ -119,6 +119,7 @@ ul li span:hover
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+<<<<<<< HEAD
 header {
     background-position: left;
     background-position-x: 1rem;
@@ -126,6 +127,15 @@ header {
 .mobile_nav {
   display: none;
 }
+=======
+  header {
+      background-position: left;
+      background-position-x: 1rem;
+  }
+  .mobile_nav {
+    display: none;
+  }
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {

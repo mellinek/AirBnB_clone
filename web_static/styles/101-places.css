@@ -2,18 +2,14 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+<<<<<<< HEAD
   z-index: -1;
 }
 
 .places article {
   display: flex;
   flex-wrap: wrap;
-  width: 390px;
-  padding: 20px;
-  margin: 20px;
-  border-radius: 4px;
-  border: 1px solid #FF5A5F;
-  box-sizing: border-box;
+=======
 }
 
 .places h1 {
@@ -23,6 +19,26 @@
   margin: 10px auto auto;
 }
 
+.places article {
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
+  width: 390px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 4px;
+  border: 1px solid #FF5A5F;
+  box-sizing: border-box;
+}
+
+<<<<<<< HEAD
+.places h1 {
+  width: 100%;
+  font-size: 30px;
+  padding-left: 20px;
+  margin: 10px auto auto;
+}
+
+=======
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 .places h2 {
   font-size: 30px;
   margin: 0;
@@ -30,6 +46,15 @@
   text-align: center;
   flex-grow: 1;
 }
+<<<<<<< HEAD
+=======
+
+article {
+  z-index: -1;
+  display: flex;
+  flex-wrap: wrap;
+}
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 /* ************************************************** */
 /* article information */
 /* ************************************************** */
@@ -38,6 +63,10 @@
 .article_places_header {
   width: 100%;
   display: flex;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 }
 
 .price_by_night {
@@ -74,7 +103,10 @@
   margin: 0;
   padding: 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 /***********/
 /* icons   */
 
@@ -104,6 +136,10 @@
 /*******************************************/
 /* more information */
 /*******************************************/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 .places .amenities,
 .places .reviews {
   margin-top: 40px;
@@ -160,4 +196,10 @@
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
+<<<<<<< HEAD
 }
+=======
+  display: inline-block;
+}
+
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5

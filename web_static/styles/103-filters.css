@@ -37,13 +37,21 @@ button:hover {
   opacity: .9;
   cursor: pointer;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 .locations,
 .amenities {
   height: 100%;
   width: 25%;
+<<<<<<< HEAD
   /* display: inline-block;
   vertical-align: left; */
+=======
+   /* display: inline-block;
+    * vertical-align: left; */
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
   justify-content: center;
   flex-direction: column;
   position: relative;

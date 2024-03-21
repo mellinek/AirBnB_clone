@@ -174,7 +174,11 @@ article:focus {
   align-content: center;
   margin-bottom: 10px;
   align-items: end;
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 
 .places_amenities_pet_friendly {
   background-image: url(../images/icon_pets.png);

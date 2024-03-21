@@ -6,7 +6,11 @@
 	padding: 0;
 	list-style: none;
 	text-decoration: none;
+<<<<<<< HEAD
 	border: none; 
+=======
+	border: none;
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 	outline: none;
 }
 /****************************************************************************/
@@ -58,3 +62,7 @@ span {
 		margin: 0 auto;
 	}
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5

@@ -2,9 +2,15 @@ body{
     margin: 0;
     padding: 0;
     color: #484848;
+<<<<<<< HEAD
     font-size: 14px;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
  }
+=======
+    font-size: 14px; 
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+>>>>>>> 0e4739fc61d95b37182af9dbb680121e0825adc5
 
 .container{
     margin: auto;
